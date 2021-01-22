@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1568732697 source:p:\github stuff\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains code (tony tam).cpp
+	"Niffty Mountains Header.h"
+
+1568732508 p:\github stuff\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains header.h
+	<iostream>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1568996764 source:\\ad.ocdsb.ca\studenthome\7\s331479147\github stuff\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains code (tony tam).cpp
+	"Niffty Mountains Header.h"
+
+1568996361 \\ad.ocdsb.ca\studenthome\7\s331479147\github stuff\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains header.h
+	<iostream>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1569205679 source:c:\users\seepa_000\downloads\niffty mountains project (tony tam)\niffty mountains code (tony tam).cpp
+	"Niffty Mountains Header.h"
+
+1569204247 c:\users\seepa_000\downloads\niffty mountains project (tony tam)\niffty mountains header.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<time.h>
+	<apmatrix.h>
+	<apvector.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569206301 source:c:\users\seepa_000\downloads\niffty mountains project (tony tam)\function database.cpp
+	"Niffty Mountains Header.h"
+
+1569205777 source:c:\users\seepa_000\downloads\niffty mountains project (tony tam)\second method database.cpp
+	"Niffty Mountains Header.h"
+
+1569206301 source:c:\users\seepa_000\documents\github\1-niftymountains-tony-tam\niffty mountains project (tony tam)\function database.cpp
+	"Niffty Mountains Header.h"
+
+1569204247 c:\users\seepa_000\documents\github\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains header.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<time.h>
+	<apmatrix.h>
+	<apvector.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1569206451 source:c:\users\seepa_000\documents\github\1-niftymountains-tony-tam\niffty mountains project (tony tam)\niffty mountains code (tony tam).cpp
+	"Niffty Mountains Header.h"
+
+1569205777 source:c:\users\seepa_000\documents\github\1-niftymountains-tony-tam\niffty mountains project (tony tam)\second method database.cpp
+	"Niffty Mountains Header.h"
+
